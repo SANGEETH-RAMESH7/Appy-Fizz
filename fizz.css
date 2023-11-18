@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    color: #fff;
+    background: none;
+
+
+}
+.navbar
+{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    height: 12vh;
+    background-color: #0a0b27;
+    margin-bottom: 100px;
+}
+.header-c
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/050251APPY-FIZZ_Digital_2023-Kriti-1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.navbar img
+{
+    margin-right: auto;
+    margin-left: -4px;
+    padding-left: 33px;
+    padding-right: 49px;
+    margin-top: 27px;
+}
+.a
+
+.header-c img
+{
+    margin-top: 26px;
+}
+.navbar ul
+{
+    margin-left: 200px;
+    list-style-type: none;
+    word-spacing: 10px;
+    justify-content: space-between;
+    letter-spacing: 2px;
+    display: flex;
+    font-family: "merivaregular";
+    font-size: 15px;
+    margin-top: -35px;
+    padding: 5px 100px;
+    
+}
+.navbar li:hover
+{
+    color: rgb(242, 93, 6);
+    text-decoration: underline;
+
+}
+.part1
+{
+    width: 50%;
+    background: black;
+    height: 1051px;
+}
+.part
+{
+    display: flex;
+    
+}
+.part2{
+    width: 50%;
+    background: white;
+    height: 1051px;
+}
+.part1-img
+{
+    width: 190px;
+    height: 529.188px;
+    margin: 260.906px 220.8325px;
+}
+.img-ss
+{
+    height: 26.438px;
+    width: 196px;
+}
+.part1-text
+{
+    text-align: center;
+    margin: auto;
+
+    margin-top: -609px;
+    color: white;
+    font-size: 36px;
+    font-weight: 800;
+}
+.part leaf
+{
+
+    left: 50%;
+    transform: translateX(-50%);
+    width: 190px;
+}
+.drink
+{
+    background-image: url(image/053402APPY-FIZZ_Social-Media_Range_2023.jpg);
+    width:100%;
+    height: 710.625px;
+    background-size: cover;
+    background-position: center;
+}
+.part2 .text2 p
+{
+    color: #0a0b27;
+    font-size: 24px;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 100px;
+    word-spacing: 2px;
+    margin-left: 120px;
+}
+.part1-text h1
+{
+    font-family: sans-serif;
+}
+.image-social
+{
+    margin-top: 23px;
+    margin-left: 120px;
+}
+.footer
+{
+    width: 100%;
+    height: 230px;
+    background-color: white;
+    display: flex;
+
+}
+.footer1
+{
+    color: black;
+    font-size: 14px;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 43px;
+    margin-left: 68px;
+}
+.footer2
+{
+    color: black;
+    font-size: 14px;
+    margin-top: 5px;
+    padding: 5px 5px;
+    margin-top: 40px;
+    margin-left: 149px;
+}
+.footer2 .footer2-link
+{
+    line-height: 2;
+}
+.footer2 a
+{
+    color: black;
+}
+.footer3
+{
+    color: black;
+    line-height: 1.2;
+    font-size: 14px;
+    padding: 5px 5px;
+    margin-top: 40px;
+    margin-left: 75px;
+}
+.footer3-img
+{
+    display: flex;
+    
+}
+.footer a
+{
+    color: black;
+    text-decoration: none;
+}
